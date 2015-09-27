@@ -15,4 +15,8 @@ $ cheese-bae
 $ npm install -g https://github.com/NazimAmin/silicon-valley-cheese && echo "cheese-bae" >> ~/.bashrc
 ```
 
+###### why? 
+I pissed a friend off on a weekend. So I decided to play with her laptop for a surprise while she was sleeping. 
+"Lets pivot."
+
 
