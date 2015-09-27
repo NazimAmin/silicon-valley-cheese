@@ -1,0 +1,24 @@
+{
+    "name": "silicon-valley-cheese",
+    "version": "0.0.1",
+    "description": "Just make to bae smile.",
+    "scripts": {
+        "test": "echo \"working on it.\" && exit 1"
+    },
+    "author": "Nazim Amin",
+    "preferGlobal": true,
+    "bin": {
+        "cheese-bae": "app.js"
+    },
+    "files": [
+    "app.js",
+    "quotes.json"
+  ],
+    "engines": {
+        "node": ">=0.10.0"
+    },
+    "dependencies": {
+        "yosay": "^0.3.0",
+        "chalk": "^0.4.0"
+    }
+}
