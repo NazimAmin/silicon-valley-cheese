@@ -1,5 +1,7 @@
 Funny Silicon Valley quotes in terminal.
 
+![](screenshot.png)
+
 ## Install
 
 ```
